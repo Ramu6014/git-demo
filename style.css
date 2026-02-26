@@ -1,0 +1,14 @@
+*{
+    color: black;
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: lightgoldenrodyellow;
+}
+h1{
+    color: rgba(255,0,0,0.75);
+    font-size: 2rem;
+    text-align: center;
+    text-decoration: underline 2px;
+}
